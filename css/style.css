@@ -1,0 +1,311 @@
+@charset "utf-8";
+/* CSS Document */
+.body
+{
+	padding:0px;
+	margin:0px;
+	font-weight:bold;
+	font-family:"Comic Sans MS", cursive;
+}
+.black
+{
+	width:100%;
+	float:left;
+	min-height:120px;
+	height:auto;
+	background-color:#000;
+	
+}
+.black-wraper
+{
+	width:1170px;
+	margin:0px auto;
+}
+.black-wraper h1
+{
+	color:#fff;
+	text-align:center;
+	padding:5px 0px;
+	margin:0px 0px;
+	font-size:24px;
+}
+.ball
+{
+	width:234px;
+	float:left;
+	margin:5px 0px;
+}
+.ball input
+{
+	width:200px;
+	float:left;
+	padding:5px 0px;
+	margin:0px 0px;
+}
+.ball select
+{
+	width: 204px;
+	float:left;
+	padding:5px 0px;
+	margin:0px 0px;
+}
+.ball select option
+{
+	width:221px;
+	float:left;
+	padding:5px 0px;
+	margin:0px 0px;
+}
+.balltwo
+{
+	width:234px;
+	float:left;
+	margin: 5px 0px;
+}
+.balltwo input
+{
+	width:150px;
+	float:left;
+	padding:7px 0px;
+	margin:0px 0px;
+	background-color:#f30;
+	color:#fff;
+	font-weight:bold;
+}
+.brown
+{
+	width:300px;
+	float:left;
+	min-height:300px;
+	height:auto;
+	margin:10px 0px 0px 10px;
+	background-color:#600;
+	border-radius:6px;
+
+}
+.brown h4
+{
+	padding:8px 0px 0px 6px;
+	margin:0px 0px;
+	float:left;
+	font-size:24px;
+}
+.user
+{
+	width:100%;
+	float:left;
+}
+.user label
+{
+	color:#fff;
+	float:left;
+	padding:9px 0px 0px 6px;
+	margin: -10px 0px;
+	font-size:18px;
+}
+.user input
+{
+	width:94%;
+	float:left;
+	padding:0px 0px 0px 3px;
+	margin:3px 0px 0px 5px;
+}
+.user textarea
+{
+	width:94%;
+	float:left;
+	height:50px;
+	padding:0px 0px 0px 3px;
+	margin:3px 0px 0px 5px;
+}
+.button
+{
+	width:100px;
+	float:left;
+}
+.button input
+{
+	border:none;
+	border-radius:6px;
+	color:#fff;
+	background-color:#f60;
+	padding:10px 15px;
+	margin:9px 6px;
+}
+.green
+{
+	width:300px;
+	float:left;
+	min-height:300px;
+	height:auto;
+	background-color:#0f6;
+	margin:10px 0px 0px 20px;
+}
+.orange
+{
+	width:100%;
+	float:left;
+	background-color:#0f60;
+}
+.orange h1
+{
+	color:#fff;
+	text-align:center;
+	padding:10px 0px;
+	margin:0px 0px;
+	font-size:24px;
+}
+.green1
+{
+	width:92%;
+	float:left;
+}
+.green1 input
+{
+	width:272px;
+	float:left;
+	padding:6px 3px;
+	margin:9px 0px 0px 8px;
+}
+.green1 textarea
+{
+	width:272px;
+	float:left;
+	padding:6px 3px;
+	margin:9px 0px 0px 8px;
+}
+.button1
+{
+	width:100px;
+	float:left;
+	margin:10px 0px 10px 15px;
+}
+.button input
+{
+	padding:10px 15px;
+	margin:0px 0px;
+	float:left;
+	color:#fff;
+	border-radius:6px;
+	box-shadow:0px 3px 2px 0px #93001d;
+	background-color:#f30;
+	border:none;
+}
+.head
+{
+	width:100%;
+	float:left;
+	min-height:450px;
+	height:auto;
+	background-color:#fc3;
+}
+.head-wraper
+{
+	width:1024px;
+	margin:0px auto;
+}
+.head-wraper h2
+{
+	text-align:center;
+	padding:20px 0px 0px 0px;
+	margin:10px 0px;
+	font-size:40px;
+	font-family:"Comic Sans MS", cursive;
+	letter-spacing:1px;
+}
+.main
+{
+	width:100%;
+	float:left;
+	color:#fff;
+	margin:11px 0px 2px 5px;
+	font-family:"Comic Sans MS", cursive;
+	font-size:16px;
+	font-weight:bold;
+}
+.main input
+{
+	width:99%;
+	float:left;
+	padding: 10px 0px 10px 5px;
+	margin:4px 0px 0px 0px;
+	font-weight:700;
+	font-family:inherit;
+	border:none;
+	border-radius:15px 0px 15px 0px;
+	font-size:16px;
+}
+.main textarea
+{
+	height:150px;
+	resize:none;
+	width:99%;
+	float:left;
+	padding:10px 0px 10px 10px;
+	margin:4px 0px 0px 0px;
+	font-weight:700;
+	font-family:"Comic Sans MS", cursive;
+	border:none;
+	color:#666;
+	border-radius:15px 0px 15px 0px;
+	font-size:14px;
+}
+.button
+{
+	width:100px;
+	margin:0px auto;
+}
+.button input
+{
+	padding:10px 50px;
+	margin:12px 0px;
+	float:left;
+	background-color:#000;
+	color:#fff;
+	font-size:16px;
+	font-weight:bold;
+	border:none;
+}
+.top
+{
+	width:300px;
+	float:left;
+	min-height:450px;
+	height:auto;
+	background-color:#009;
+}
+.top h3
+{
+	width:300px;
+	float:left;
+	margin:10px 0px;
+	color:#fff;
+}
+.rose 
+{
+	width:100%;
+	float:left;
+	color:#09C;
+	margin:10px 0px;
+	font-family:"Comic Sans MS", cursive;
+	font-size:16px;
+	font-weight:bold;
+}
+.rose input
+{
+	width: 96%;
+	float:left;
+	color:#09C;
+	margin:10px 0px;
+	font-family:"Comic Sans MS", cursive;
+	font-size:16px;
+	font-weight:bold;
+	border-radius:15px 0px 15px 0px;
+}
+	
+	
+	
+
+	
+	
+	
